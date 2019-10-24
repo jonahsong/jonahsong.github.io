@@ -16,3 +16,4 @@ My finally applied standard scaler and polynomial regression for the third degre
 
 Even though it is only a cubic function, the model I created has several hundred coefficients. Even though there are only 13 explanatory variables (including the one hot matrix), there are so many coefficients because there is one for every single multiplication combination of the variables which results in a degree that is 3 or less. If there were just two explanatory variables, named A and B, there would still have to be a coefficient for A, A^2, A^3, B, B^2, B^3, A x B, A^2 x B, and A x B^2 (9 coefficients total). Thus, when there are 13 explanatory variables in a cubic polynomial, there will have to be many coefficients to cover all of these potential combinations which are of degree three or less.
 
+You can find my code located in my repository [here](https://github.com/jonahsong/REGRESSION_PROJECT)
