@@ -20,10 +20,17 @@ Today I researched what neural networks actually and the different methods for p
 
 
 **January 8th**
+
+
 Today I started learning how to actually use PyTorch with an example with gradient descent. I read a very detailed article that examined how to execute gradient descent, while comparing methods with Numpy and PyTorch. The article generally reviewed each of the main components of PyTorch and then explained how they were used in the gradient descent example. I feel that I learned the bare bones of PyTorch (autogrid, dynamic computation graph, model classes) today. My goal for tomorrow is to decide on how I want to apply neural networks. I want to determine what the actual project is and how it will utilize neural networks.
 
 
 **January 9th**
+
+
+Today Sophie and I decided what we want to do for our project. Using torchtext, we plan to make a translator. During class, I researched the different tools and features of PyTorch that will go into our translator. I learned that our translator will use the Field class so that all of our data in both languages can be easily iterated through in a way in which each sentence has a predetermined specified way of being preprocessed. I’m not positive on how we will do the tokenization for the program but I think that Spacy will be a pretty easy way for us to do it. We will have to use Space (or another program besides torchtext because torchtext only has tokenizers for English. Lastly, I believe that torchtext’s BucketIterator will be crucial in our model. What the BucketIterator will do is define an iterator that pairs example sentences of similar lengths together, reducing the amount of padding needed. Tomorrow, I want to find a good and comprehensible tutorial and read through it, making sure that I completely understand it.
+
+
 
 **January 10th**
 
