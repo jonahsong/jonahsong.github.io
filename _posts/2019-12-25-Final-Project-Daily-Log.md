@@ -34,6 +34,11 @@ Today Sophie and I decided what we want to do for our project. Using torchtext, 
 
 **January 10th**
 
+
+Today we found and read through a really detailed tutorial on the PyTorch website on how to code a language translator using torchtext. We learned how to to preprocess sentences  into the standard format for NLP using TranslationDataset, Field, and BucketIterator (3 convenience classes of torchtext). I also downloaded PyTorch, Spacy, and CUDA packages  today so that we can start programming on Monday. We started building the program at the end of the period but we are still having some errors related to PyTorch and Space imports  that we need to sort out.
+
+
+
 **January 13th**
 
 **January 15th**
