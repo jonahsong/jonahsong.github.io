@@ -41,7 +41,13 @@ Today we found and read through a really detailed tutorial on the PyTorch websit
 
 **January 13th**
 
-**January 15th**
+
+
+We are currently having many errors with running our code. My personal error messages are stating that the system is unable to find the functions and imports that I am trying to call. I believe that the downloads that I had to do using terminal (PyTorch, Spacy, CUDA) were somehow not executed correctly. I used Anaconda to install these packages but maybe for my computer I should have used to pip to install them (?). I am still trying to work these issues out with my diligent partner in crime, Sophie.
+
+
+
+**January 15th** 
 
 **January 16th**
 
