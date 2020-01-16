@@ -49,6 +49,13 @@ We are currently having many errors with running our code. My personal error mes
 
 **January 15th** 
 
+
+
+With the help of Lauren, I was able to resolve the issues I was having in running the preliminary pieces of code. Somehow, there was an error when I initially installed Spacy with Anaconda. So, Lauren showed me how to download the package using pip. After I completed the download, the code was running smoothly. Currently, all our translator does is return metrics about the training and testing data. What we want to do in the coming days is figure out how we can enter a sentence in one language, and return the sentence in the other language.
+
+
+
+
 **January 16th**
 
 **January 17th**
