@@ -64,3 +64,5 @@ With the help of Lauren, I was able to resolve the issues I was having in runnin
 Today I was sick and unable to make it to class but I worked on building a translator function. I am hoping that this function will be able to take an input in one language and return the translation into another language. Without the help of Lauren or my partner Sophie, I was not able to make it extremely far. According to Computer Science Professor Ray Mooney at UT, Austin, “You can’t cram the meaning of a whole f*cking sentence into a single f*cking vector!”
 
 **January 17th**
+
+
